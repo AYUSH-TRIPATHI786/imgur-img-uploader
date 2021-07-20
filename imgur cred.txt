@@ -1,0 +1,16 @@
+
+Client ID:
+807753c6cd56184
+
+Client secret:
+08d990f919e2b1ecd719b310c9e439b50aa2146e
+
+https://api.imgur.com/oauth2/authorize?
+client_id=YOUR_CLIENT_ID&
+response_type=REQUESTED_RESPONSE_TYPE&
+state=APPLICATION_STATE
+
+Client ID:
+9d7b3f8c5168911
+Client secret:
+7f4c057d19c4590dc9f288c64030b48e357b075f
